@@ -18,9 +18,6 @@
     </a>
     <a href="https://github.com/josedev-oss">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.com/josedev-oss"
         />
     </a>
 </p>
