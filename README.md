@@ -1,99 +1,55 @@
-# 👩🏻‍💻 José L. Gomes
+<h1 align="center">👋 Olá, eu sou José Lucas</h1>
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-👋 Olá! Sou José Lucas, estudante de Análise e Desenvolvimento de Sistemas e entusiasta da programação. Atualmente, estou aprimorando minhas habilidades em C, C++ e Python, com uma base sólida em Lógica de Programação e Arquitetura de Computadores.
-
-💡 Além da tecnologia, sou estudante de História, o que me dá uma visão analítica e investigativa na resolução de problemas. Tenho experiência com projetos acadêmicos e educativos, equilibrando múltiplas áreas de conhecimento.
-
-🚀 Busco me especializar em desenvolvimento de software e engenharia de sistemas, sempre aprendendo e explorando novas soluções. No momento, estou focado em aprimorar minha lógica, estruturação de código e boas práticas de desenvolvimento.".
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/josedev-oss">
-        <img 
-        />
-    </a>
+<p align="center">
+  💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
+  🚀 Em transição de carreira e me aprofundando no mundo da programação<br>
+  📍 Brasil
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚧 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Atualmente estou focado em aprender as principais tecnologias para o desenvolvimento web. Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, contribuindo com projetos e crescendo como desenvolvedor.
 
-<br/>
-<br/>
+📚 **Estudando atualmente**:
+- 🐍 Python (lógica, automação e back-end)
+- 🌐 HTML5, CSS3 e JavaScript (web front-end)
+- ⚙️ Node.js (back-end com JavaScript)
 
-### 📊 Estatísticas
+📘 **Objetivos de curto prazo**:
+- Criar projetos práticos para consolidar o que aprendo
+- Após entrar num estágio, estudar mais sobre fullstack
+- Trabalhar diretamente como fullstack 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 🧠 Áreas de interesse
 
-</p>
+- Desenvolvimento Full Stack Web
+- APIs REST com Node.js e Python
+- Criação de interfaces web responsivas
+- Automatização de tarefas com Python
+
+---
+
+### 📁 Projetos em andamento
+
+> Em breve você vai encontrar aqui:
+- To-do list com Node.js + Express
+- PETdrive. App para transporte de pets
+- Automação com Python e bibliotecas como `pandas`, `requests` e `openpyxl`
+
+---
+
+### 📫 Contato
+
+- ✉️ E-mail: Joselucasgsva@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/joselucasgsva/ 
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical" />
+</div>
+
