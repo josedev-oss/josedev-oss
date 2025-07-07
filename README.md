@@ -48,8 +48,3 @@ Atualmente estou focado em aprender as principais tecnologias para o desenvolvim
 - 💼 LinkedIn: https://www.linkedin.com/in/joselucasgsva/ 
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical" />
-</div>
-
